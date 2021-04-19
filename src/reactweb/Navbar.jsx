@@ -17,16 +17,19 @@ function Navbar(props) {
                     <div className="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav ml-auto">
                         <li className="nav-item active">
-                            <NavLink exact activeClassName="active_style"  className="nav-link" to="/">Home <span className="sr-only">(current)</span></NavLink>
+                            <NavLink exact activeClassName="active_style"  className="nav-link" to="/reactweb">Home <span className="sr-only">(current)</span></NavLink>
                         </li>
                         <li className="nav-item">
-                            <NavLink activeClassName="active_style"  className="nav-link" to="/service">Services</NavLink>
+                            <NavLink activeClassName="active_style"  className="nav-link" to="/reactweb/service">Services</NavLink>
                         </li>
                         <li className="nav-item">
-                            <NavLink activeClassName="active_style"  className="nav-link" to="/about">About</NavLink>
+                            <NavLink activeClassName="active_style"  className="nav-link" to="/reactweb/about">About</NavLink>
                         </li>
                         <li className="nav-item">
-                            <NavLink activeClassName="active_style"  className="nav-link" to="/contact">Contact</NavLink>
+                            <NavLink activeClassName="active_style"  className="nav-link" to="/reactweb/contact">Contact</NavLink>
+                        </li>
+                        <li className="nav-item">
+                            <NavLink activeClassName="active_style"  className="nav-link" to="/kailas/reactweb/contact">Irrelentpath</NavLink>
                         </li>
                         
                         </ul>
