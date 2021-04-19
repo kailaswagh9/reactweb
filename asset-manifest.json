@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/reactweb/static/css/main.b9ab3d6c.chunk.css",
+    "main.js": "/reactweb/static/js/main.ae810df3.chunk.js",
+    "main.js.map": "/reactweb/static/js/main.ae810df3.chunk.js.map",
+    "runtime-main.js": "/reactweb/static/js/runtime-main.05067886.js",
+    "runtime-main.js.map": "/reactweb/static/js/runtime-main.05067886.js.map",
+    "static/css/2.74c02967.chunk.css": "/reactweb/static/css/2.74c02967.chunk.css",
+    "static/js/2.fcdca9cf.chunk.js": "/reactweb/static/js/2.fcdca9cf.chunk.js",
+    "static/js/2.fcdca9cf.chunk.js.map": "/reactweb/static/js/2.fcdca9cf.chunk.js.map",
+    "index.html": "/reactweb/index.html",
+    "static/css/2.74c02967.chunk.css.map": "/reactweb/static/css/2.74c02967.chunk.css.map",
+    "static/css/main.b9ab3d6c.chunk.css.map": "/reactweb/static/css/main.b9ab3d6c.chunk.css.map",
+    "static/js/2.fcdca9cf.chunk.js.LICENSE.txt": "/reactweb/static/js/2.fcdca9cf.chunk.js.LICENSE.txt",
+    "static/media/android.a3053e94.jpg": "/reactweb/static/media/android.a3053e94.jpg",
+    "static/media/app.777b3c95.jpg": "/reactweb/static/media/app.777b3c95.jpg",
+    "static/media/computer.055330cf.jpg": "/reactweb/static/media/computer.055330cf.jpg",
+    "static/media/digital.2fad48f1.jpg": "/reactweb/static/media/digital.2fad48f1.jpg",
+    "static/media/marketing.0af838bb.jpg": "/reactweb/static/media/marketing.0af838bb.jpg",
+    "static/media/rocket.e2f6f219.jpg": "/reactweb/static/media/rocket.e2f6f219.jpg",
+    "static/media/seo.e361d672.jpg": "/reactweb/static/media/seo.e361d672.jpg",
+    "static/media/software.c8a58949.jpg": "/reactweb/static/media/software.c8a58949.jpg",
+    "static/media/startup.b8a375b9.jpg": "/reactweb/static/media/startup.b8a375b9.jpg",
+    "static/media/web.e0750934.jpg": "/reactweb/static/media/web.e0750934.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05067886.js",
+    "static/css/2.74c02967.chunk.css",
+    "static/js/2.fcdca9cf.chunk.js",
+    "static/css/main.b9ab3d6c.chunk.css",
+    "static/js/main.ae810df3.chunk.js"
+  ]
+}
